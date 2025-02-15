@@ -1,0 +1,6 @@
+Category_Id,Category_Name,Parent_Category_Id
+1,Electronics,
+2,Auto & Accessories,
+3,Mobile Accessories,1
+4,Car Accessories,2
+5,Bike Accessories,2
