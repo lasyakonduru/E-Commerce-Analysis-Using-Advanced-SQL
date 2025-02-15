@@ -104,10 +104,10 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 ---
 
 ## 📂 **Project Files & Repository Structure**  
-📁 `ecommerce.db` – SQLite database file  
-📁 `SQL_queries.sql` – Collection of SQL scripts used in analysis  
-📁 `analysis.ipynb` – Jupyter Notebook for SQL execution & visualization  
-📁 `presentation.pdf` – Summary of key insights & recommendations  
+📁 `Ecommerce_SQL_DATAProject.db` – SQLite database file  
+📁 `ecommerce_schema.sql` – Collection of SQL scripts used in analysis  
+📁 `E_Commerce_Analysis_using_Advanced_SQL.ipynb` – Jupyter Notebook for SQL execution & visualization  
+📁 `E_Commerce_Analysis_using_Advanced_SQL.html` – Summary of key insights & recommendations  
 📁 `README.md` – Documentation for project overview and findings  
 
 ---
@@ -118,9 +118,9 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 git clone https://github.com/yourusername/ecommerce-sql-analysis.git
 cd ecommerce-sql-analysis
 ```
-2️⃣ **Load the database (`ecommerce.db`) into SQLite or DB Browser for SQLite.**  
-3️⃣ **Execute SQL queries from `SQL_queries.sql` to explore insights.**  
-4️⃣ **Run `analysis.ipynb` in Jupyter Notebook to visualize trends using Python.**  
+2️⃣ **Load the database (`Ecommerce_SQL_DATAProject.db`) into SQLite or DB Browser for SQLite.**  
+3️⃣ **Execute SQL queries from `ecommerce_schema.sql` to explore insights.**  
+4️⃣ **Run `E_Commerce_Analysis_using_Advanced_SQL.ipynb` in Jupyter Notebook to visualize trends using Python.**  
 
 ---
 
