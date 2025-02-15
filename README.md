@@ -115,7 +115,7 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 ## 🛠 **How to Run the Project**  
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/yourusername/ecommerce-sql-analysis.git
+git clone https://github.com/yourusername/E-Commerce-Analysis-Using-Advanced-SQL.git
 cd ecommerce-sql-analysis
 ```
 2️⃣ **Load the database (`Ecommerce_SQL_DATAProject.db`) into SQLite or DB Browser for SQLite.**  
